@@ -1,0 +1,6 @@
+@DOTNET_iyzico_HostAddress = http://localhost:5270
+
+GET {{DOTNET_iyzico_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
